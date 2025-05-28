@@ -1,0 +1,23 @@
+{
+  "name": "openshift",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/atiountchik/openshift#readme",
+  "bugs": {
+    "url": "https://github.com/atiountchik/openshift/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiountchik/openshift.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
